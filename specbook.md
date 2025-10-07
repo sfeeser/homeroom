@@ -55,18 +55,18 @@ Table of Contents
 2.  System Metadata
 3.  User Roles
 4.  Class Lifecycle
-5.  Modules
-    5.1. Authentication
-    5.2. Classroom Dashboard (Zoom Access Page)
-    5.3. Email Notification System
-    5.4. Roster Management
-    5.5. Attendance Verification
-    5.6. Certificate Management
-    5.7. Instructor Tools
-    5.8. Admin Dashboard
-6.  APIs and External Integrations
-    6.1. Third-Party Services
-    6.2. Track3 Integration Dependency (SoR Contract)
+5.  Modules  
+    5.1. Authentication  
+    5.2. Classroom Dashboard (Zoom Access Page)  
+    5.3. Email Notification System  
+    5.4. Roster Management  
+    5.5. Attendance Verification  
+    5.6. Certificate Management  
+    5.7. Instructor Tools  
+    5.8. Admin Dashboard  
+6.  APIs and External Integrations  
+    6.1. Third-Party Services  
+    6.2. Track3 Integration Dependency (SoR Contract)  
 7.  Data Models (Simplified)
 8.  UI Spec (Wireframe-Level Summary)
 9.  Automation Schedule
